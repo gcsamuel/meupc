@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Segredos
+.env
+config.json
+
+# Logs
+*.log
+nohup.out
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Pasta temporária de build/docs local
+.gh-pages/
+
+# Dados pessoais (lista de compras fica local)
+tabeladecompras.xlsx
+*.xlsx
